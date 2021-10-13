@@ -1,0 +1,14 @@
+{
+  "name": "wix1.com",
+  "version": "1.0.0",
+  "description": "my first assesment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "assesment"
+  ],
+  "author": "Desire",
+  "license": "ISC"
+}
